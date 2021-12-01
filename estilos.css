@@ -1,0 +1,46 @@
+body {
+  font-family: sans-serif
+}
+.caja{
+  border: 1px solid #D7E6E7;
+  border-radius: 10px;
+  background: #F2FAFB;
+  padding: 10px;
+  margin: 50px;
+}
+#texto{
+  border: 3px solid #174348;
+  border-radius: 5px;
+  padding: 5px;
+  width: 50%;
+  margin-left: 10%;
+}
+#topico{
+  border: 3px solid #174348;
+  border-radius: 5px;
+  padding: 5px;
+  width: 20%;
+}
+#boton{
+  border: 3px solid #2ECC71;
+  border-radius: 5px;
+  padding: 5px;
+  width: 80px;
+  background-color: #2ECC71;
+  color: whitesmoke;
+}
+#boton:hover{
+  background-color: #239B56;
+  border-color: #239B56;
+}
+#titulo{
+  text-align: center;
+  color: #174348;
+}
+#subtitulo{
+  color: #174348;
+  font-weight: bold;
+}
+#temas{
+  margin-bottom: 20px;
+}
